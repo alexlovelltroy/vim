@@ -37,3 +37,6 @@
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
 	url = https://github.com/honza/snipmate-snippets.git
+[submodule "bundle/miniscm"]
+	path = bundle/miniscm
+	url = https://github.com/vim-scripts/ScmFrontEnd-former-name--MinSCM.git
